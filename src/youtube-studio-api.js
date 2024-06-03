@@ -588,7 +588,7 @@ const get_creator_videos_template = {
     "context": {
         "client": {
             "clientName": 62,
-            "clientVersion": "1.20191120.0.1",
+            "clientVersion": "1.20240531.03.00",
             "hl": "en-GB",
             "gl": "PL",
             "experimentsToken": ""
